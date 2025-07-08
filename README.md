@@ -12,6 +12,10 @@
 
 *MENTOR: NEELA SANTOSH
 
+OUTPUT:
+
+![Image](https://github.com/user-attachments/assets/38be38a2-183d-4557-9054-b3900e7731d7)
+
 Description:
 
 This script performs Neural Style Transfer — a technique that blends the content of one image with the style of another using a deep neural network. It’s based on a 2015 paper by Gatys et al., where they showed that convolutional neural networks (CNNs) could separate and recombine content and style from images.
